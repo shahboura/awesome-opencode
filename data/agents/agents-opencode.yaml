@@ -1,0 +1,9 @@
+name: OpenCode Agents Pack
+repo: https://github.com/shahboura/agents-opencode
+homepage: https://agnts.elkodr.com/
+installation: npx agents-opencode --global
+tagline: Ten specialist agents and 28 on-demand skills for plan, implement, review, and docs
+description: >-
+  One-command pack for OpenCode: orchestrator, implementation, review, and documentation
+  agents plus on-demand language and workflow skills. Deny-by-default tool permissions and
+  CI-validated agent contracts included.
